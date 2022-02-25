@@ -1,0 +1,9 @@
+Before running, make sure you have npm installed all required dependencies.
+
+To run, go into the terminal and type in 'npm run devstart'.
+
+This will then run the freshserver.js file.
+
+In regards to the server.js file, it is the 'old' freshserver.js file.
+I wanted to 'start over' in a sense when i was writing the server code,
+hence the new file.
