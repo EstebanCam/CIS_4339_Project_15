@@ -3,6 +3,9 @@ const mongoose = require('mongoose')
 const app = express()
 app.use(express.json()) // allows us to access req body as req.body
 
+
+//Hello this an Example of committing 
+
 // Set up the mongoose DB connection
 // .connect('mongodb://localhost/test')
 mongoose
